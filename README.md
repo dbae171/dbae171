@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 - 🌱 I’m currently learning Flask, Django, Spring Boot, AWS, and some SQL.
 - 🤝 I’m looking to collaborate on AI projects or any exciting coding ventures. Feel free to message me!
